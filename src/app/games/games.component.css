@@ -1,0 +1,32 @@
+.date {
+  background-color: #7F7F7F;
+  padding-top: .5em;
+  padding-left: 1.5em;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold !important;
+}
+
+.calendar{
+  padding-left: 1.5em;
+  padding-top: 1.5em;
+}
+
+.img-responsive {
+  max-width: 50%; /* or to whatever you want here */
+  max-height: 50%; /* or to whatever you want here */
+}
+
+.text-center{
+  color: white;
+}
+
+.v-center {
+  color: white;
+  width: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding-left: .5em;
+}
